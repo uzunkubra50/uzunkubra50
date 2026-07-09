@@ -73,7 +73,9 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=uzunkubra50&theme=tokyonight&hide_border=true&background=0d1117&ring=6eb5ff&fire=d4a0ff&currStreakLabel=6eb5ff"/>
+<img src="https://github-readme-stats.vercel.app/api?username=uzunkubra50&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=6eb5ff&title_color=d4a0ff" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzunkubra50&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=d4a0ff" height="165"/>
 
 </div>
 
@@ -90,7 +92,7 @@
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=uzunkubra50&theme=tokyonight&column=4&margin-w=12&margin-h=12&no-bg=true&no-frame=true" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=uzunkubra50&theme=tokyonight&column=4&margin-w=12&margin-h=12&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="trophies"/>
 </div>
 
 ---
