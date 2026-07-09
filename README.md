@@ -89,14 +89,6 @@
 
 ---
 
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=uzunkubra50&theme=tokyonight&column=4&margin-w=12&margin-h=12&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="trophies"/>
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
