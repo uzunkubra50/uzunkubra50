@@ -103,9 +103,19 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=uzunkubra50&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=6eb5ff&title_color=d4a0ff&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uzunkubra50&theme=tokyonight" width="100%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uzunkubra50&theme=tokyonight" height="200"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzunkubra50&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=d4a0ff&langs_count=8" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=uzunkubra50&theme=tokyonight" height="200"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uzunkubra50&theme=tokyonight" height="200"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=uzunkubra50&theme=tokyonight&utcOffset=3" height="200"/>
 
 <br/><br/>
 
