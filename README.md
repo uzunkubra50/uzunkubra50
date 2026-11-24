@@ -43,13 +43,13 @@ Kurucu ortağı olduğum [**@GokturkFK**](https://github.com/GokturkFK) bünyesi
 
 ### 1. Kurumsal SaaS ve Ürün Mühendisliği *(Özel Ticari Projeler)*
 
-| Ürün | Mimari Kapsam ve Mühendislik Kalitesi | Teknoloji |
+| Ürün | Kapsam ve Ürün Vitrini | Alan |
 | :--- | :--- | :--- |
-| 🦺 **İSG Platform** | 6331 sayılı İş Sağlığı ve Güvenliği Kanunu uyumlu çok kiracılı kurumsal platform. **171 PostgreSQL migration**, veritabanında zorlanan RLS (`withUser`), append-only audit trigger'ları, `tus` MinIO yükleme, Playwright PDF üretimi, çevrimdışı Expo mobil uygulaması ve KVKK uyumlu yerel **Ollama** asistanı. | `Next.js 16` `Expo 57` `PostgreSQL 16` `Kysely` `MinIO` `Ollama` |
-| 🎓 **Dershane ve Koçluk SaaS** | **38+ NestJS domain modülü**, Next.js kurum/süper-admin panelleri, Flutter mobil uygulaması ve 42 ekranlık tasarım sistemi içeren çok kiracılı SaaS. Tek kaynaktan white-label marka eşitleme ve 2FA çift onaylı finans güvenliği. | `NestJS 12` `Next.js 16` `Flutter` `PostgreSQL` `Redis` |
-| 🐎 **Ötüken** | Oyun motoru kullanmayan tarihî strateji simülasyonu: UI ve I/O'dan tamamen yalıtılmış belirlenimci TypeScript çekirdeği (`sim-core`), tohumlu RNG, headless CSV denge koşucusu ve Zod doğrulamalı JSON içerik mimarisi. | `TypeScript` `React` `Vite` `Capacitor 8` `Vitest` |
+| 🦺 **İSG Platformu** | 6331 sayılı İş Sağlığı ve Güvenliği Kanunu ile veri mahremiyeti gereksinimlerini odağına alan, kurum ve saha süreçlerini dijitalleştiren çok kiracılı web ve mobil yönetim platformu. | `Kurumsal SaaS` `Web & Mobil` |
+| 🎓 **Dershane & Öğrenci Koçluğu SaaS** | Eğitim kurumları, akademik koçlar, öğrenciler ve veliler arasındaki çalışma, takip, yoklama ve kurum yönetimi süreçlerini birleştiren çok kiracılı platform. | `Eğitim Teknolojisi` `Çok Kiracılı SaaS` |
+| 🐎 **Ötüken** *(Geliştirme Aşamasında)* | Göktürk dönemi bozkırında geçen, oyuncu kararlarına dayalı tek oyunculu tarihî yönetim ve strateji simülasyonu (web & mobil hedefi). | `Oyun Geliştirme` `Strateji Simülasyonu` |
 
-> *Ayrıca devam eden kişisel/Ar-Ge çalışmalarım arasında çevrimdışı öncelikli bitemporal olay tabanlı veri modeli üzerine kurulu **Agri-ERP** prototipi yer alıyor.*
+> *Ayrıca geliştirme aşamasındaki çalışmalarımız arasında karma çiftliklere yönelik çevrimdışı öncelikli **Agri-ERP** prototipi yer alıyor.*
 
 ### 2. Açık Kaynak Siber Güvenlik Ekosistemi (Go & Python)
 
@@ -224,9 +224,9 @@ As Co-Founder and Platform/DevOps Lead at [**@GokturkFK**](https://github.com/Go
 ### 🚀 Selected Work at [@GokturkFK](https://github.com/GokturkFK)
 
 **Enterprise SaaS & Product Engineering *(Private)*:**
-- **İSG Platform** — Multi-tenant OHS (Law No. 6331) monorepo: **171 PostgreSQL migrations**, database-enforced RLS, append-only trigger audits, MinIO `tus` uploads, Playwright PDFs, offline Expo mobile app & self-hosted Ollama AI (`Next.js 16`, `Expo 57`, `PostgreSQL 16`, `Kysely`).
-- **Dershane & Coaching SaaS** — Multi-tenant EdTech platform spanning **38+ NestJS domain modules**, Next.js portals, Flutter mobile app, 42-screen design system & 2FA dual-approval financial governance (`NestJS 12`, `Next.js 16`, `Flutter`, `PostgreSQL`, `Redis`).
-- **Ötüken** — Engine-free historical strategy simulation powered by a pure, deterministic seeded-RNG TypeScript core (`sim-core`), headless CSV runner & Capacitor 8 (`TypeScript`, `React`, `Vite`).
+- **İSG Platform** *(Enterprise SaaS · Web & Mobile)* — Multi-tenant Occupational Health & Safety management platform focused on Turkish Law No. 6331 compliance, field mobility, auditability, and data privacy.
+- **Dershane & Student Coaching SaaS** *(Multi-Tenant EdTech · Web & Mobile)* — Academic coaching, study tracking, attendance, and institutional management platform connecting tutoring centers, coaches, students, and parents.
+- **Ötüken** *(In Development · Web & Mobile)* — Single-player historical steppe management and strategy simulation built around deterministic mechanics and consequence-driven player agency.
 
 **Open-Source Cybersecurity Ecosystem (Go & Python):**
 - [**gokturk-deception-mesh**](https://github.com/GokturkFK/gokturk-deception-mesh) *(P1)* — Air-gapped credential canary platform detecting stolen service accounts in **≤5 s with zero false positives** (`Go`, `NATS JetStream`, `PostgreSQL`, `Docker`, `Trivy`).
